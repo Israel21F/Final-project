@@ -1,0 +1,70 @@
+.dropDown{
+    cursor: pointer;
+    
+}
+
+
+ 
+ 
+
+body{
+    background-image: url("space\ background\ 2.jpg");
+    background-size: cover;
+    
+}
+
+h1 {color: white;}
+label {color: white;}
+pre {color: white;}
+link{color:white;}
+h2{color:white;}
+.planet{
+    display:block;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+
+pre{
+    white-space: pre-wrap;       
+    white-space: -moz-pre-wrap;  
+    white-space: -pre-wrap;      
+    white-space: -o-pre-wrap;    
+    word-wrap: break-word;       
+    text-align:center ;
+    font-size:larger;
+    width: fit-content;
+    block-size: fit-content;
+    text-align: center;
+}
+
+.planet2{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color:white;
+    border-radius: 8px;
+    padding: 4px 3px;
+    border: 4px solid;
+    margin: auto;
+    width: 80px
+
+}
+h1{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.planet3{
+    display: block;
+    text-align: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
